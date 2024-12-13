@@ -9,6 +9,8 @@ This repo contains a UI components for React that displays a badge representing
 a single nutrition fact, such as the fat or protein content of food. This repo
 is open source and will remain so.
 
+![Sample](sample.png)
+
 ## Installation
 
 ```bash
