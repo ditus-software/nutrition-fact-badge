@@ -5,7 +5,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/ditus-software/nutrition-fact-badge/badge.svg?branch=master)](https://coveralls.io/github/ditus-software/nutrition-fact-badge?branch=master)
 [![contributor covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE-OF-CONDUCT.md)
 
-This repo contains a UI components for React that displays a badge representing
+This repo contains a UI component for React that displays a badge representing
 a single nutrition fact, such as the fat or protein content of food. This repo
 is open source and will remain so.
 
